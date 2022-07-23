@@ -1,6 +1,9 @@
 # DSA-Notes
 My Personal Data Structure and Algorithm notes that I have gathered from College Lectures, YT Videos and some coding platforms-InterviewBit, Geeks for Geeks, HackerEarth. 
 
+Java implementation of algorithms learned and used while competitive programming
+
+
 <h3 align="Left">Have an issue; lets Connect!!!</h3>
 
 <div align="left">
