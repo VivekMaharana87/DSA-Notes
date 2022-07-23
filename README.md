@@ -1,7 +1,7 @@
 # DSA-Notes
 My Personal Data Structure and Algorithm notes that I have gathered from College Lectures, YT Videos and some coding platforms-InterviewBit, Geeks for Geeks, HackerEarth. 
 
-<h3 align="Left">Have an issue lets connect</h3>
+<h3 align="Left">Have an issue; lets Connect!!!</h3>
 
 <div align="left">
 
